@@ -1,0 +1,12 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    .title {
+        padding-top: 1rem;
+    }
+    .info {
+        padding-top: 1rem;
+        padding-right: 1rem;
+
+    }
+}
